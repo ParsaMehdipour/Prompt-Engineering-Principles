@@ -6,6 +6,8 @@
 # recover from its actions. Furthermore, asking for justification might be useful also in case of answers
 # that are right but we simply don’t know the LLM’s reasoning behind it.
 
+# Justifications are a great tool to make your model more reliable and robust since they force it to “rethink”
+# its output, as well as provide us with a view of how the reasoning was set to solve the problem.
 import os
 import openai
 
