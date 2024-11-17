@@ -19,7 +19,6 @@ client = openai.OpenAI(
     api_key=os.getenv("OPENAI_API_KEY"), 
 )
 
-# Justifications and
 system_message = """
 You are an AI assistant specialized in solving riddles.
 Given a riddle, you have to generate three answers to the riddle.
