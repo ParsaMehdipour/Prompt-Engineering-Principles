@@ -1,0 +1,1 @@
+Welcome to the Prompt-Engineering-Principles repository! This project is dedicated to exploring best practices, methodologies, and strategies for crafting effective prompts when working with AI language models like GPT. Whether you're a beginner or an advanced user, this repository will provide valuable insights into the art and science of prompt engineering.
